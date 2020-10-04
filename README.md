@@ -18,10 +18,13 @@ To begin, we will look at the data summarized from two perpectives:
 
 ### Campaign Goal Analysis
 ---
-#### Table 1 - Campaigns by Size, Qty and Outcome ![Table 1 - Campaigns by Size, Qty and Outcome](Resources/Table_of_Outcomes_by_Goal.png)
+#### Table 1 - Campaigns by Size, Qty and Outcome 
 ---
+![Table 1 - Campaigns by Size, Qty and Outcome](Resources/Table_of_Outcomes_by_Goal.png)
 ---
-#### Table 2 - Campaigns by Size and Outcome Percentage ![Table 2 - Campaigns by Size and Outcome %](Resources/Table_of_Outcomes_by_percent.png)
+#### Table 2 - Campaigns by Size and Outcome Percentage 
+---
+![Table 2 - Campaigns by Size and Outcome %](Resources/Table_of_Outcomes_by_percent.png)
 ---
 ---
 Based on the above summary data, campaigns in the range of $1000 to $5000 were highly successful at 72.6%.  Also, since this is the indicated size campaign desired, there are 388 examples to draw from to provide insight into the needed campaign for Louise.
