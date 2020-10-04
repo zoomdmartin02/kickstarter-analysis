@@ -18,6 +18,9 @@ To begin, we will look at the data summarized from two perpectives:
 
 ### Campaign Goal Analysis
 ---
-![Table 1 - Breakdown of Campaigns by Size](Resources/Table_of_Outcomes_by_Goal.png)
+![Table 1 - Campaigns by Size, Qty and Outcome](Resources/Table_of_Outcomes_by_Goal.png)
+---
+![Table 2 - Campaigns by Size and Outcome %](Resources/Table_of_Outcomes_by_percent.png)
+
 ## Results
 
