@@ -22,9 +22,19 @@ To begin, we will look at the data summarized from two perpectives:
 ---
 #### Table 2 - Campaigns by Size and Outcome Percentage ![Table 2 - Campaigns by Size and Outcome %](Resources/Table_of_Outcomes_by_percent.png)
 ---
-Based on the above summary data, campaigns in the range of $1000 to $5000 were highly successful.  Also, since this is the indicated size campaign desired, there are many examples to draw from to provide insight into the needed campaign for Louise.
+Based on the above summary data, campaigns in the range of $1000 to $5000 were highly successful at 72.6%.  Also, since this is the indicated size campaign desired, there are 388 examples to draw from to provide insight into the needed campaign for Louise.
 ---
-#### Image 1 - ![Img 1 - Outcomes vs Goals](Resources/Outcomes_vs_goals.png)
+#### Image 1 Outcomes vs Goals ![Img 1 - Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
+---
+The above image confirms successful campaigns from under $5000, but the data indicates a decreasing success rate with campaigns with goals between $5,000 and $15,000 and campaigns from $15,000 to $35,000 resulted in more unsuccessful campaigns than successful.  This trend changes with another sweet spot being realized for campaigns sized between $35,000 and $40,000.  Campaigns over 40,000 again grow rapidly in their frequency of unsuccess.
+---
+### Launch Date Analysis
+---
+The following data tells the story of timing for successful fund-raising campaigns.
+---
+#### Image 2 Outcomes by Date ![Img 2 - Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
+---
+According to the data, successful funding campaigns ocurr most frequenly between April and August.  The data would indicate that campaigns that start and end during this time frame have the highest frequency of successful outcomes of meeting or exceeding pledged goals.
 ---
 ## Results
 
