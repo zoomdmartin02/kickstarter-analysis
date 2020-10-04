@@ -50,7 +50,7 @@ Two conclusions drawn about the Theater Outcomes based on Launch Date?
 ---
 Conclusion about the Outcomes based on Goals?
 ---
-1.  The success rate for campaigns based on Louise's goal of a $4,000 Campaign is in one of the highest success categories between $1,000 adn $5,000 at 72.6%.
+1.  The success rate for campaigns based on Louise's goal of a $4,000 Campaign is in one of the highest success categories between $1,000 and $5,000 at 72.6%.
 2.  A second sweet spot for successful campaigns exist between $35,000 and $45,000.
 ---
 What are some limitations of this dataset?
