@@ -13,7 +13,11 @@ The challenge will be to analyze the available data and determine any factors Lo
 ---
 To begin, we will look at the data summarized from two perpectives:
 ---
-* Outcomes based on Launch Date
-* Outcomes based on Goals
+* Outcomes based on Campaign Goal Size
+* Outcomes based on Launch Date Timing
+
+### Campaign Goal Analysis
+---
+![Table 1 - Breakdown of Campaigns by Size](Resources/Table_of_Outcomes_by_Goal.png)
 ## Results
 
