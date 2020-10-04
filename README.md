@@ -26,7 +26,7 @@ Based on the above summary data, campaigns in the range of $1000 to $5000 were h
 ---
 #### Image 1 Outcomes vs Goals ![Img 1 - Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 ---
-The above image confirms successful campaigns from under $5000, but the data indicates a decreasing success rate with campaigns with goals between $5,000 and $15,000 and campaigns from $15,000 to $35,000 resulted in more unsuccessful campaigns than successful.  This trend changes with another sweet spot being realized for campaigns sized between $35,000 and $40,000.  Campaigns over 40,000 again grow rapidly in their frequency of unsuccess.
+The above image confirms successful campaigns from under $5000, but the data indicates a decreasing success rate with campaigns with goals between $5,000 and $15,000 and campaigns from $15,000 to $35,000 resulted in more unsuccessful campaigns than successful.  This trend changes with another sweet spot being realized for campaigns sized between $35,000 and $45,000.  Campaigns over 45,000 again grow rapidly in their frequency of unsuccess.
 ---
 ### Launch Date Analysis
 ---
@@ -34,7 +34,19 @@ The following data tells the story of timing for successful fund-raising campaig
 ---
 #### Image 2 Outcomes by Date ![Img 2 - Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ---
-According to the data, successful funding campaigns ocurr most frequenly between April and August.  The data would indicate that campaigns that start and end during this time frame have the highest frequency of successful outcomes of meeting or exceeding pledged goals.
----
+According to the data, successful funding campaigns that start between April and August have the highest frequency of success.  
 ## Results
+### Two conclusions drawn about the Theater Outcomes based on Launch Date?
+1. Campaign should start between April and August.
+2. The two months with highest success rates are May and June with total successes at 111 and 100, respectively. 
+### Conclusion about the Outcomes based on Goals?
+1.  The success rate for campaigns based on Louise's goal of a $4,000 Campaign is in one of the highest success categories between $1,000 adn $5,000 at 72.6%.
+2.  A second sweet spot for successful campaigns exist between $35,000 and $45,000.
+### What are some limitations of this dataset?
+The data set does not include information that might help Louise know what actions were taken to secure the funding for the campaign.  Data that could include communication methods, presentation materials, venues would help Louis with this outcome data and timing data would help Louise know with more certainty what to do to better ensure her campaign's success.
+---
+This data set is filtered for US campaigns only.  Additional subsets of data based on country might help Louise decide if she'd like to have multiple iterations of her campagin in different countries.
+### What are some other possible tables and/or graphs that we could create?
+There are additional tables and graphs that could be created.  Similar charts and graphs based on subsets of data filtered by country would be useful to determine if a broader campaign would be productive.  Similarly, tables and graphs that might show a correlation between the number of backers and successful campaigns could assist with types of communication plans.  Lastly, graphs and tables that demonstrate at what time of the year produces highest donations could be useful as well.
+---
 
