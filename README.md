@@ -41,13 +41,15 @@ The following data tells the story of timing for successful fund-raising campaig
 #### Image 2 Outcomes by Date ![Img 2 - Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ---
 According to the data, successful funding campaigns that start between April and August have the highest frequency of success.  
-##Results
+## Results
 ---
 Two conclusions drawn about the Theater Outcomes based on Launch Date?
+---
 1. Campaign should start between April and August.
 2. The two months with highest success rates are May and June with total successes at 111 and 100, respectively. 
 ---
 Conclusion about the Outcomes based on Goals?
+---
 1.  The success rate for campaigns based on Louise's goal of a $4,000 Campaign is in one of the highest success categories between $1,000 adn $5,000 at 72.6%.
 2.  A second sweet spot for successful campaigns exist between $35,000 and $45,000.
 ---
