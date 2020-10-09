@@ -5,6 +5,9 @@ Prepared for Louise, by David Martin on 10/4/20
 ---
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Louise would like to know how different campaigns fared in relation to their launch dates and their funding goals.  This project will evaluate all Crowdfunding projects from years 2010 through 2017 in the United States, focusing on Theater as a category and Plays as a subcategory.  It will provide trend analysis and make recommendations to Louise about most successful goals and timelines to launch a funding campaign based on the historical data.
 ---
+## Technology Involved
+This project leverages Excel to evaluate a large data set and summarize that data set by creating pivot tables and pivot charts.  The large data set is filtered with conditional formatting applied.  New columns and tables are populated by utilizing the vlookup function to populate cells in the subsequent table or column based on values or conditional arguments in the former table or column.  
+---
 ## Analysis and Challenges
 ---
 The fund-raising campaign for Fever started on June 13, 2016 and ended on July 11, 2016.  This campaign had a goal of raising $2,885 to fund the production of the play, but fell short of the goal with actual donations totaling $2,485.  There were 10 backers who gave an average donation of $248.50.  Louise has indicated that a minimum of $4000 is needed to fund her play.
