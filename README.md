@@ -22,7 +22,7 @@ This project leverages Excel to evaluate a large data set and summarize that dat
 ---
 The fund-raising campaign for Fever started on June 13, 2016 and ended on July 11, 2016.  This campaign had a goal of raising $2,885 to fund the production of the play, but fell short of the goal with actual donations totaling $2,485.  There were 10 backers who gave an average donation of $248.50.  Louise has indicated that a minimum of $4000 is needed to fund her play.
 ---
-The challenge will be to analyze the available data and determine any factors Louise can use to plan her new funding campaign by looking at successful campaigns that met the pledge goals.  Challenges do exist with the data.  For example, the data in years 2010-2013 have very few funding campaigns included.  There are fewer than 11 campaigns per year, respectively with 11 being the highest in 2013.  From 2014-2016, there sufficient sample sizes to draw some inferences.  2017 again lags with only 48 total programs.  We will use the entire data set from 2010 through 2017 and draw the best inferences possible from the available data.
+The challenge will be to analyze the available data and determine any factors Louise can use to plan her new funding campaign by looking at successful campaigns that met the pledge goals.  Challenges do exist with the data.  For example, the data in years 2010-2013 have very few funding campaigns included.  There are fewer than 11 campaigns per year, respectively with 11 being the highest in 2013.  From 2014-2016, there are sufficient sample sizes to draw some inferences.  2017 again lags with only 48 total programs.  We will use the entire data set from 2010 through 2017 and draw the best inferences possible from the available data.
 ---
 To begin, we will look at the data summarized from two perpectives:
 ---
@@ -56,23 +56,23 @@ The following data tells the story of timing for successful fund-raising campaig
 According to the data, successful funding campaigns that start between April and August have the highest frequency of success.  
 ## Results
 ---
-Two conclusions drawn about the Theater Outcomes based on Launch Date?
+Two conclusions drawn about the Theater Outcomes based on Launch Date
 ---
 1. Campaign should start between April and August.
 2. The two months with highest success rates are May and June with total successes at 111 and 100, respectively. 
 ---
-Conclusion about the Outcomes based on Goals?
+Conclusion about the Outcomes based on Goals
 ---
 1.  The success rate for campaigns based on Louise's goal of a $4,000 Campaign is in one of the highest success categories between $1,000 and $5,000 at 72.6%.
 2.  A second sweet spot for successful campaigns exist between $35,000 and $45,000.
 ---
-What are some limitations of this dataset?
+### What are some limitations of this dataset?
 ---
 The data set does not include information that might help Louise know what actions were taken to secure the funding for the campaign.  Data that could include communication methods, presentation materials, venues would help Louis with this outcome data and timing data would help Louise know with more certainty what to do to better ensure her campaign's success.
 ---
 This data set is filtered for US campaigns only.  Additional subsets of data based on country might help Louise decide if she'd like to have multiple iterations of her campagin in different countries.
 ---
-What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 ---
 There are additional tables and graphs that could be created.  Similar charts and graphs based on subsets of data filtered by country would be useful to determine if a broader campaign would be productive.  Similarly, tables and graphs that might show a correlation between the number of backers and successful campaigns could assist with types of communication plans.  Lastly, graphs and tables that demonstrate at what time of the year produces highest donations could be useful as well.
 ---
