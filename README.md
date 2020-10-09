@@ -3,10 +3,19 @@ Prepared for Louise, by David Martin on 10/4/20
 ---
 ## Overview of Project
 ---
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Louise would like to know how different campaigns fared in relation to their launch dates and their funding goals.  This project will evaluate all Crowdfunding projects from years 2010 through 2017 in the United States, focusing on Theater as a category and Plays as a subcategory.  It will provide trend analysis and make recommendations to Louise about most successful goals and timelines to launch a funding campaign based on the historical data.
+Louise’s play, Fever came close to its fundraising goal in a short amount of time. Louise would like to know how different campaigns fared in relation to their launch dates and their funding goals.  This project will evaluate all Crowdfunding projects from years 2010 through 2017 in the United States, focusing on Theater as a category and Plays as a subcategory.  It will provide trend analysis and make recommendations to Louise about most successful goals and timelines to launch a funding campaign based on the historical data.
 ---
 ## Technology Involved
-This project leverages Excel to evaluate a large data set and summarize that data set by creating pivot tables and pivot charts.  The large data set is filtered with conditional formatting applied.  New columns and tables are populated by utilizing the vlookup function to populate cells in the subsequent table or column based on values or conditional arguments in the former table or column.  
+This project leverages Excel to evaluate a large data set and summarize that data set by creating pivot tables and pivot charts.  The large data set is filtered with conditional formatting applied.  New columns and tables are populated by utilizing the vlookup function to populate cells in the subsequent table or column based on values or conditional arguments in the former table or column.  Summary columns utilizing excel functions and nested functions to convert or summarize data are included as follows:
+---
+  * Round(), to present the quotient of two numeric columns to achieve a percentage as a whole number.
+  * IfError(), to evaluate each cell in a column and if condition not met, place a suitable value in the cell
+  * Convert Text to Columns Wizard, to evaluate a column that has multiple delimited data elements within one column and convert those into their own respective column.
+  * Unix timestamp conversion to date formulas
+  * Average(), to find the Mean of a column
+  * Meadian(), to find the Median of a column
+  * CountIFS(), to populate columns with a number count based on conditionals or criteria
+  * Sum(), to auto sum a column or range
 ---
 ## Analysis and Challenges
 ---
