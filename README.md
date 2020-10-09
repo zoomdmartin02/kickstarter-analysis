@@ -8,9 +8,10 @@ Louise’s play, Fever came close to its fundraising goal in a short amount of t
 ## Technology Involved
 This project leverages Excel to evaluate a large data set and summarize that data set by creating pivot tables and pivot charts.  The large data set is filtered with conditional formatting applied.  New columns and tables are populated by utilizing the vlookup function to populate cells in the subsequent table or column based on values or conditional arguments in the former table or column.  Summary columns utilizing excel functions and nested functions to convert or summarize data are included as follows:
 ---
-  * Round(), to present the quotient of two numeric columns to achieve a percentage as a whole number.
+  * Round(), to present the quotient of two numeric columns to achieve a percentage as a whole number
+  * vLookup(), to populate a range or cell in a subsequent column or table based on values in a former column or table
   * IfError(), to evaluate each cell in a column and if condition not met, place a suitable value in the cell
-  * Convert Text to Columns Wizard, to evaluate a column that has multiple delimited data elements within one column and convert those into their own respective column.
+  * Convert Text to Columns Wizard, to evaluate a column that has multiple delimited data elements within one column and convert those into their own respective column
   * Unix timestamp conversion to date formulas
   * Average(), to find the Mean of a column
   * Meadian(), to find the Median of a column
